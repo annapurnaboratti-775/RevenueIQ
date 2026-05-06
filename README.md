@@ -4,7 +4,7 @@ Current digital creator platforms lack reliable mechanisms to ensure fairness an
 
 Proposed Solution :
 
-TrueLedger is a full-stack revenue intelligence platform that analyzes creator engagement data, detects fake or manipulated activity using anomaly detection, calculates trust scores based on authenticity, and ensures fair and transparent revenue distribution through normalized performance,while providing secure role-based access and interactive dashboards for clear insights.
+RevenueIQ is a full-stack revenue intelligence platform that analyzes creator engagement data, detects fake or manipulated activity using anomaly detection, calculates trust scores based on authenticity, and ensures fair and transparent revenue distribution through normalized performance,while providing secure role-based access and interactive dashboards for clear insights.
 
 
 Tech Stack
